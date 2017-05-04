@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.release.myfirstapp.MainActivity">
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:text = "let's start!"
+        android:id="@+id/aa"
+        />
+    <LinearLayout
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/bb"
+        >
+        <EditText
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:id="@+id/cc"
+            />
+        <Button
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:layout_weight="5"
+            android:text="send"
+            android:id="@+id/ff"
+            />
+    </LinearLayout>
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_below="@id/aa"
+        android:layout_above="@id/bb"
+        android:id="@+id/dd"
+        >
+        <TextView
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:id="@+id/ee"
+            android:gravity="right"
+            />
+    </ScrollView>
+</RelativeLayout>
