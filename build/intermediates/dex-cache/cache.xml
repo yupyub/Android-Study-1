@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/02348cdd41c802709351dc2ca56d3089e344ef21/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d74f6fd84828f1d737b3623483580c2344b3fc61/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/1957d877471cc71611edf3dbc4eee68709a817d3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_efe35ceb833643ed489b812b6a803310ed3bf336.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/02348cdd41c802709351dc2ca56d3089e344ef21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_d74f6fd84828f1d737b3623483580c2344b3fc61.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a7e71f23849922326dc3bd132c3728d05556e68c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/7fcf1b290db900f43c4abfe9be56dd8ee4fe7e2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_1956a1bb2107103b664f35fb3fd18c6979755fb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_27cc6e9d23a0e1ae81bd595e0e093cbb454bc722.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/7fcf1b290db900f43c4abfe9be56dd8ee4fe7e2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1956a1bb2107103b664f35fb3fd18c6979755fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_27cc6e9d23a0e1ae81bd595e0e093cbb454bc722/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/1957d877471cc71611edf3dbc4eee68709a817d3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efe35ceb833643ed489b812b6a803310ed3bf336/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/fc3cffe8f73af22a5e05cb015dc4903560d6e7f3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1f84d4964e076fdacfd91d6777ae9de324f1edb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/8f7cf201d1827a26f0a45d747cf6bdf230c71506/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_11e0b7fccb769cc19d4495709e09776236bb64c8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_869d06ba542b9ab571e6014e4bfe92e8dd7772bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/4f24207d71a5af2dcc18c948cbb4ccfbec9eb100/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_79859f4b33bfe757eb484ff529f49cd8a9fe4e32/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/dc4094a86d74d9f8a9b7c709255993b14815d86b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_d997bde04764f293bb58a8a754df4f80213eb358.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/dc4094a86d74d9f8a9b7c709255993b14815d86b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d997bde04764f293bb58a8a754df4f80213eb358/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/4f24207d71a5af2dcc18c948cbb4ccfbec9eb100/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_79859f4b33bfe757eb484ff529f49cd8a9fe4e32.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/8f7cf201d1827a26f0a45d747cf6bdf230c71506/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11e0b7fccb769cc19d4495709e09776236bb64c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/66344a9134f25ddbe53f10ade7b07d7acd7e91ea/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_398321f53152cee5fc8b949d28f581b7b8b35d21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/9676a4f307747d4935b5908bce0564c8767aa21e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92f50475e90aa45d13c0c1e7759442477bfec58e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/.android/build-cache/1bab2379806f21ea431d1656187d69f35efe4786/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d58d00a9bd35b349e6c1b3736bfd5d8840885f9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/9676a4f307747d4935b5908bce0564c8767aa21e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_92f50475e90aa45d13c0c1e7759442477bfec58e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f91c11c46f7b65bd89991646b35e4ad60112eaf3">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_cca3a46519cf716ca30a90a704f64c00654464d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_869d06ba542b9ab571e6014e4bfe92e8dd7772bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/1bab2379806f21ea431d1656187d69f35efe4786/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_d58d00a9bd35b349e6c1b3736bfd5d8840885f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/66344a9134f25ddbe53f10ade7b07d7acd7e91ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_398321f53152cee5fc8b949d28f581b7b8b35d21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/release/.android/build-cache/fc3cffe8f73af22a5e05cb015dc4903560d6e7f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/release/Desktop/andyup/Android-Study-1/app/build/intermediates/pre-dexed/debug/classes_1f84d4964e076fdacfd91d6777ae9de324f1edb7.jar" />
+    </item>
+
+</items>

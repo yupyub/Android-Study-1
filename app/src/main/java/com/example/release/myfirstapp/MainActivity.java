@@ -1,6 +1,7 @@
 package com.example.release.myfirstapp;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.support.constraint.solver.widgets.WidgetContainer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,6 +10,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ScrollView;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
@@ -16,20 +18,24 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        final ScrollView dd=(ScrollView)(findViewById(R.id.dd));
-        final TextView ee = (TextView)(findViewById(R.id.ee));
-        final EditText cc = (EditText)(findViewById(R.id.cc));
-        Button ff = (Button)(findViewById(R.id.ff));
-        ff.setOnClickListener(new View.OnClickListener() {
+        final ScrollView scro=(ScrollView)(findViewById(R.id.dd));
+        final TextView view = (TextView)(findViewById(R.id.ee));
+        final EditText edit = (EditText)(findViewById(R.id.cc));
+        Button but = (Button)(findViewById(R.id.ff));
+        Intent newIntent = new Intent(this.getIntent());
+        view.append("USER::");
+        view.append(newIntent.getStringExtra("ID"));
+        Toast.makeText(this, newIntent.getStringExtra("ID"), Toast.LENGTH_LONG).show();
+        but.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                ee.append("\n");
-                ee.append(cc.getText().toString());
-                cc.setText("");
-                dd.post(new Runnable() {
+                view.append("\n");
+                view.append(edit.getText().toString());
+                edit.setText("");
+                scro.post(new Runnable() {
                     @Override
                     public void run() {
-                        dd.scrollTo(0,dd.getHeight());
+                        scro.scrollTo(0,scro.getHeight());
                     }
                 });
             }
